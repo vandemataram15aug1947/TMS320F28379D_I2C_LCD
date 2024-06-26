@@ -1,13 +1,10 @@
 //#############################################################################
-//
-//  File:   F28027_LCD_I2C_main.c
-//
-//  Title:  F28027 connect to LCD via I2C main file
-//
-//  Created on: 2020Äê03ÔÂ09ÈÕ
-//
-//  Author: Jie Kang
-//
+/*
+ * TMS320F28379D_I2C_LCD.c
+ *
+ *  Created on: Jun 26, 2024
+ *      Author: Vande
+ */
 //#############################################################################
 
 #include "F28x_Project.h"
