@@ -1,9 +1,10 @@
 /*
- * LCD_main.c
+ * TMS320F28379D_I2C_LCD.c
  *
- *  Created on: Jul 8, 2022
- *      Author: LOCNGUYEN
+ *  Created on: Jun 26, 2024
+ *      Author: Vande
  */
+
 #include "F28x_Project.h"
 
 //
