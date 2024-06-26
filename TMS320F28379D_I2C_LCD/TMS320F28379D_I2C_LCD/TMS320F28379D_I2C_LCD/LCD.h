@@ -1,9 +1,10 @@
 /*
  * LCD.h
  *
- *  Created on: May 5, 2022
- *      Author: LOCNGUYEN
+ *  Created on: Jun 26, 2024
+ *      Author: Vande
  */
+
 
 #ifndef LCD_H_
 #define LCD_H_
